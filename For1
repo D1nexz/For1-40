@@ -1,5 +1,4 @@
-K = int(input())
-N = int(input())
-
-for _ in range(N):
+K = int(input("Введите число"))
+N = int(input("Введите число"))
+for i in range(N):
     print(K)
